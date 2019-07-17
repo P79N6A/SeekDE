@@ -1,2 +1,8 @@
 .env
-*.pdf
+*.tgz
+kaggle.json
+*ckpt*
+*__py
+*.csv
+Q42.ipynb
+*.ipynb_
