@@ -1,2 +1,2 @@
 # SeekDE
-Assignment for Data Engineer Accessment
+Data Engineer Accessment
