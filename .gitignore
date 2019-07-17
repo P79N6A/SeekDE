@@ -5,4 +5,4 @@ kaggle.json
 *__py
 *.csv
 Q42.ipynb
-*.ipynb_
+*.ipynb_checkpoint
